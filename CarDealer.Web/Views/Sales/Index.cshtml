@@ -1,0 +1,33 @@
+﻿@model IEnumerable<CarDealer.Data.Models.Sale>
+
+<h1>Sales</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Add New Sale</a>
+</p>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Car</th>
+            <th>Customer</th>
+            <th>Date</th>
+            <th>Final Price</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var sale in Model)
+        {
+            <tr>
+                <td>@sale.Car.Brand @sale.Car.Model</td>
+                <td>@sale.Customer.FirstName @sale.Customer.LastName</td>
+                <td>@sale.SaleDate</td>
+                <td>@sale.FinalPrice</td>
+                <td>
+                    <a asp-action="Delete" asp-route-id="@sale.Id" class="btn btn-danger btn-sm">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,87 @@
+﻿@{
+    ViewData["Title"] = "Car Dealer System";
+}
+
+<div class="hero-box d-flex flex-column flex-lg-row align-items-center justify-content-between gap-4">
+    <div class="hero-content">
+        <span class="badge bg-light text-dark px-3 py-2 mb-3">Modern Dealership Platform</span>
+        <h1 class="display-4 fw-bold">Car Dealer System</h1>
+        <p class="lead mt-3">
+            Manage cars, customers and sales through a clean, modern and efficient dealership management system.
+        </p>
+
+        <div class="d-flex flex-wrap gap-3 mt-4">
+            <a asp-controller="Cars" asp-action="Index" class="btn btn-primary btn-lg">Explore Cars</a>
+            <a asp-controller="Sales" asp-action="Index" class="btn btn-light btn-lg">View Sales</a>
+        </div>
+    </div>
+
+    <div class="hero-image text-center">
+        <img src="~/images/car-hero.png" alt="Car"
+             class="img-fluid rounded-4 shadow-lg hero-car-image" />
+    </div>
+</div>
+
+<div class="quick-grid mt-4">
+    <div class="quick-card">
+        <h3>Cars</h3>
+        <p>
+            Add, edit and manage the full vehicle inventory with price, mileage, fuel type and sale status.
+        </p>
+        <a asp-controller="Cars" asp-action="Index" class="btn btn-primary">Open Cars</a>
+    </div>
+
+    <div class="quick-card">
+        <h3>Customers</h3>
+        <p>
+            Keep customer records organized with contact information and easy access to dealership data.
+        </p>
+        <a asp-controller="Customers" asp-action="Index" class="btn btn-primary">Open Customers</a>
+    </div>
+
+    <div class="quick-card">
+        <h3>Sales</h3>
+        <p>
+            Track transactions, connect sold vehicles to customers and monitor dealership activity.
+        </p>
+        <a asp-controller="Sales" asp-action="Index" class="btn btn-primary">Open Sales</a>
+    </div>
+</div>
+
+<div class="page-card mt-4">
+    <div class="row g-4">
+        <div class="col-md-4">
+            <div class="feature-box text-center">
+                <h3>Fast Management</h3>
+                <p class="text-muted-custom">
+                    Quickly access vehicles, customers and sales through a simple interface.
+                </p>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="feature-box text-center">
+                <h3>Organized Data</h3>
+                <p class="text-muted-custom">
+                    Store dealership information securely using MySQL and Entity Framework Core.
+                </p>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="feature-box text-center">
+                <h3>Modern Experience</h3>
+                <p class="text-muted-custom">
+                    A clean web interface combined with a console application in a three-layer architecture.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="page-card mt-4 text-center">
+    <h2>Drive your dealership forward</h2>
+    <p class="text-muted-custom">
+        Built for speed, clarity and better dealership organization.
+    </p>
+</div>

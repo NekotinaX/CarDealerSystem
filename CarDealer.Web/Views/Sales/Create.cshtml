@@ -1,0 +1,23 @@
+﻿@model CarDealer.Data.Models.Sale
+
+<h1>Create Sale</h1>
+
+<form asp-action="Create" method="post">
+    <div class="mb-3">
+        <label asp-for="CarId" class="form-label"></label>
+        <input asp-for="CarId" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="CustomerId" class="form-label"></label>
+        <input asp-for="CustomerId" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="FinalPrice" class="form-label"></label>
+        <input asp-for="FinalPrice" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-success">Save</button>
+    <a asp-action="Index" class="btn btn-secondary">Back</a>
+</form>

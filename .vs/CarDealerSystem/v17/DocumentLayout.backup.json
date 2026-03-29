@@ -1,0 +1,445 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\P50\\Desktop\\CarDealerSystem\\CarDealerSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA2A22C-8D0C-4A30-A9C2-1BA3B1564C5B}|CarDealer.Web\\CarDealer.Web.csproj|c:\\users\\p50\\desktop\\cardealersystem\\cardealersystem\\cardealer.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AFA2A22C-8D0C-4A30-A9C2-1BA3B1564C5B}|CarDealer.Web\\CarDealer.Web.csproj|solutionrelative:cardealer.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA2A22C-8D0C-4A30-A9C2-1BA3B1564C5B}|CarDealer.Web\\CarDealer.Web.csproj|c:\\users\\p50\\desktop\\cardealersystem\\cardealersystem\\cardealer.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFA2A22C-8D0C-4A30-A9C2-1BA3B1564C5B}|CarDealer.Web\\CarDealer.Web.csproj|solutionrelative:cardealer.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA2A22C-8D0C-4A30-A9C2-1BA3B1564C5B}|CarDealer.Web\\CarDealer.Web.csproj|c:\\users\\p50\\desktop\\cardealersystem\\cardealersystem\\cardealer.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFA2A22C-8D0C-4A30-A9C2-1BA3B1564C5B}|CarDealer.Web\\CarDealer.Web.csproj|solutionrelative:cardealer.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA2A22C-8D0C-4A30-A9C2-1BA3B1564C5B}|CarDealer.Web\\CarDealer.Web.csproj|c:\\users\\p50\\desktop\\cardealersystem\\cardealersystem\\cardealer.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA2A22C-8D0C-4A30-A9C2-1BA3B1564C5B}|CarDealer.Web\\CarDealer.Web.csproj|solutionrelative:cardealer.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA2A22C-8D0C-4A30-A9C2-1BA3B1564C5B}|CarDealer.Web\\CarDealer.Web.csproj|c:\\users\\p50\\desktop\\cardealersystem\\cardealersystem\\cardealer.web\\views\\sales\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFA2A22C-8D0C-4A30-A9C2-1BA3B1564C5B}|CarDealer.Web\\CarDealer.Web.csproj|solutionrelative:cardealer.web\\views\\sales\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA2A22C-8D0C-4A30-A9C2-1BA3B1564C5B}|CarDealer.Web\\CarDealer.Web.csproj|c:\\users\\p50\\desktop\\cardealersystem\\cardealersystem\\cardealer.web\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFA2A22C-8D0C-4A30-A9C2-1BA3B1564C5B}|CarDealer.Web\\CarDealer.Web.csproj|solutionrelative:cardealer.web\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA2A22C-8D0C-4A30-A9C2-1BA3B1564C5B}|CarDealer.Web\\CarDealer.Web.csproj|c:\\users\\p50\\desktop\\cardealersystem\\cardealersystem\\cardealer.web\\cardealer.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AFA2A22C-8D0C-4A30-A9C2-1BA3B1564C5B}|CarDealer.Web\\CarDealer.Web.csproj|solutionrelative:cardealer.web\\cardealer.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA2A22C-8D0C-4A30-A9C2-1BA3B1564C5B}|CarDealer.Web\\CarDealer.Web.csproj|c:\\users\\p50\\desktop\\cardealersystem\\cardealersystem\\cardealer.web\\views\\sales\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFA2A22C-8D0C-4A30-A9C2-1BA3B1564C5B}|CarDealer.Web\\CarDealer.Web.csproj|solutionrelative:cardealer.web\\views\\sales\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA2A22C-8D0C-4A30-A9C2-1BA3B1564C5B}|CarDealer.Web\\CarDealer.Web.csproj|c:\\users\\p50\\desktop\\cardealersystem\\cardealersystem\\cardealer.web\\views\\sales\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFA2A22C-8D0C-4A30-A9C2-1BA3B1564C5B}|CarDealer.Web\\CarDealer.Web.csproj|solutionrelative:cardealer.web\\views\\sales\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA2A22C-8D0C-4A30-A9C2-1BA3B1564C5B}|CarDealer.Web\\CarDealer.Web.csproj|c:\\users\\p50\\desktop\\cardealersystem\\cardealersystem\\cardealer.web\\views\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFA2A22C-8D0C-4A30-A9C2-1BA3B1564C5B}|CarDealer.Web\\CarDealer.Web.csproj|solutionrelative:cardealer.web\\views\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA2A22C-8D0C-4A30-A9C2-1BA3B1564C5B}|CarDealer.Web\\CarDealer.Web.csproj|c:\\users\\p50\\desktop\\cardealersystem\\cardealersystem\\cardealer.web\\views\\cars\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFA2A22C-8D0C-4A30-A9C2-1BA3B1564C5B}|CarDealer.Web\\CarDealer.Web.csproj|solutionrelative:cardealer.web\\views\\cars\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA2A22C-8D0C-4A30-A9C2-1BA3B1564C5B}|CarDealer.Web\\CarDealer.Web.csproj|c:\\users\\p50\\desktop\\cardealersystem\\cardealersystem\\cardealer.web\\views\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFA2A22C-8D0C-4A30-A9C2-1BA3B1564C5B}|CarDealer.Web\\CarDealer.Web.csproj|solutionrelative:cardealer.web\\views\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA2A22C-8D0C-4A30-A9C2-1BA3B1564C5B}|CarDealer.Web\\CarDealer.Web.csproj|c:\\users\\p50\\desktop\\cardealersystem\\cardealersystem\\cardealer.web\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFA2A22C-8D0C-4A30-A9C2-1BA3B1564C5B}|CarDealer.Web\\CarDealer.Web.csproj|solutionrelative:cardealer.web\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA2A22C-8D0C-4A30-A9C2-1BA3B1564C5B}|CarDealer.Web\\CarDealer.Web.csproj|c:\\users\\p50\\desktop\\cardealersystem\\cardealersystem\\cardealer.web\\views\\cars\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFA2A22C-8D0C-4A30-A9C2-1BA3B1564C5B}|CarDealer.Web\\CarDealer.Web.csproj|solutionrelative:cardealer.web\\views\\cars\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA2A22C-8D0C-4A30-A9C2-1BA3B1564C5B}|CarDealer.Web\\CarDealer.Web.csproj|c:\\users\\p50\\desktop\\cardealersystem\\cardealersystem\\cardealer.web\\views\\cars\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFA2A22C-8D0C-4A30-A9C2-1BA3B1564C5B}|CarDealer.Web\\CarDealer.Web.csproj|solutionrelative:cardealer.web\\views\\cars\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA2A22C-8D0C-4A30-A9C2-1BA3B1564C5B}|CarDealer.Web\\CarDealer.Web.csproj|c:\\users\\p50\\desktop\\cardealersystem\\cardealersystem\\cardealer.web\\views\\cars\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFA2A22C-8D0C-4A30-A9C2-1BA3B1564C5B}|CarDealer.Web\\CarDealer.Web.csproj|solutionrelative:cardealer.web\\views\\cars\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA2A22C-8D0C-4A30-A9C2-1BA3B1564C5B}|CarDealer.Web\\CarDealer.Web.csproj|c:\\users\\p50\\desktop\\cardealersystem\\cardealersystem\\cardealer.web\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA2A22C-8D0C-4A30-A9C2-1BA3B1564C5B}|CarDealer.Web\\CarDealer.Web.csproj|solutionrelative:cardealer.web\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA2A22C-8D0C-4A30-A9C2-1BA3B1564C5B}|CarDealer.Web\\CarDealer.Web.csproj|c:\\users\\p50\\desktop\\cardealersystem\\cardealersystem\\cardealer.web\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA2A22C-8D0C-4A30-A9C2-1BA3B1564C5B}|CarDealer.Web\\CarDealer.Web.csproj|solutionrelative:cardealer.web\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA2A22C-8D0C-4A30-A9C2-1BA3B1564C5B}|CarDealer.Web\\CarDealer.Web.csproj|c:\\users\\p50\\desktop\\cardealersystem\\cardealersystem\\cardealer.web\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA2A22C-8D0C-4A30-A9C2-1BA3B1564C5B}|CarDealer.Web\\CarDealer.Web.csproj|solutionrelative:cardealer.web\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44380CE1-617F-4CDD-A782-FD69EEA01FDC}|CarDealer.ConsoleApp\\CarDealer.ConsoleApp.csproj|c:\\users\\p50\\desktop\\cardealersystem\\cardealersystem\\cardealer.consoleapp\\cardealer.consoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{44380CE1-617F-4CDD-A782-FD69EEA01FDC}|CarDealer.ConsoleApp\\CarDealer.ConsoleApp.csproj|solutionrelative:cardealer.consoleapp\\cardealer.consoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44380CE1-617F-4CDD-A782-FD69EEA01FDC}|CarDealer.ConsoleApp\\CarDealer.ConsoleApp.csproj|c:\\users\\p50\\desktop\\cardealersystem\\cardealersystem\\cardealer.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44380CE1-617F-4CDD-A782-FD69EEA01FDC}|CarDealer.ConsoleApp\\CarDealer.ConsoleApp.csproj|solutionrelative:cardealer.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44380CE1-617F-4CDD-A782-FD69EEA01FDC}|CarDealer.ConsoleApp\\CarDealer.ConsoleApp.csproj|c:\\users\\p50\\desktop\\cardealersystem\\cardealersystem\\cardealer.consoleapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44380CE1-617F-4CDD-A782-FD69EEA01FDC}|CarDealer.ConsoleApp\\CarDealer.ConsoleApp.csproj|solutionrelative:cardealer.consoleapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\P50\\Desktop\\CarDealerSystem\\CarDealerSystem\\CarDealer.Data\\Migrations\\20260329025427_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CarDealer.Data\\Migrations\\20260329025427_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA2A22C-8D0C-4A30-A9C2-1BA3B1564C5B}|CarDealer.Web\\CarDealer.Web.csproj|c:\\users\\p50\\desktop\\cardealersystem\\cardealersystem\\cardealer.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA2A22C-8D0C-4A30-A9C2-1BA3B1564C5B}|CarDealer.Web\\CarDealer.Web.csproj|solutionrelative:cardealer.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA2A22C-8D0C-4A30-A9C2-1BA3B1564C5B}|CarDealer.Web\\CarDealer.Web.csproj|c:\\users\\p50\\desktop\\cardealersystem\\cardealersystem\\cardealer.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AFA2A22C-8D0C-4A30-A9C2-1BA3B1564C5B}|CarDealer.Web\\CarDealer.Web.csproj|solutionrelative:cardealer.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\P50\\Desktop\\CarDealerSystem\\CarDealerSystem\\CarDealer.Web\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "CarDealer.Web\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\P50\\Desktop\\CarDealerSystem\\CarDealerSystem\\CarDealer.Web\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "CarDealer.Web\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAANUAAAAAJ/r1N/IKwOQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-29T03:30:31.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\P50\\Desktop\\CarDealerSystem\\CarDealerSystem\\CarDealer.Web\\Views\\Sales\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CarDealer.Web\\Views\\Sales\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\P50\\Desktop\\CarDealerSystem\\CarDealerSystem\\CarDealer.Web\\Views\\Sales\\Delete.cshtml",
+              "RelativeToolTip": "CarDealer.Web\\Views\\Sales\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-29T03:22:23.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\P50\\Desktop\\CarDealerSystem\\CarDealerSystem\\CarDealer.Web\\Views\\Sales\\Create.cshtml",
+              "RelativeDocumentMoniker": "CarDealer.Web\\Views\\Sales\\Create.cshtml",
+              "ToolTip": "C:\\Users\\P50\\Desktop\\CarDealerSystem\\CarDealerSystem\\CarDealer.Web\\Views\\Sales\\Create.cshtml",
+              "RelativeToolTip": "CarDealer.Web\\Views\\Sales\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-29T03:21:44.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\P50\\Desktop\\CarDealerSystem\\CarDealerSystem\\CarDealer.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CarDealer.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\P50\\Desktop\\CarDealerSystem\\CarDealerSystem\\CarDealer.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CarDealer.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T03:10:28.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\P50\\Desktop\\CarDealerSystem\\CarDealerSystem\\CarDealer.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CarDealer.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\P50\\Desktop\\CarDealerSystem\\CarDealerSystem\\CarDealer.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CarDealer.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAWwCwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-29T03:23:32.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\P50\\Desktop\\CarDealerSystem\\CarDealerSystem\\CarDealer.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CarDealer.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\P50\\Desktop\\CarDealerSystem\\CarDealerSystem\\CarDealer.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CarDealer.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAvwFYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-29T03:35:57.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\P50\\Desktop\\CarDealerSystem\\CarDealerSystem\\CarDealer.Web\\Views\\Sales\\Index.cshtml",
+              "RelativeDocumentMoniker": "CarDealer.Web\\Views\\Sales\\Index.cshtml",
+              "ToolTip": "C:\\Users\\P50\\Desktop\\CarDealerSystem\\CarDealerSystem\\CarDealer.Web\\Views\\Sales\\Index.cshtml",
+              "RelativeToolTip": "CarDealer.Web\\Views\\Sales\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-29T03:21:06.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\P50\\Desktop\\CarDealerSystem\\CarDealerSystem\\CarDealer.Web\\Views\\Customers\\Index.cshtml",
+              "RelativeDocumentMoniker": "CarDealer.Web\\Views\\Customers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\P50\\Desktop\\CarDealerSystem\\CarDealerSystem\\CarDealer.Web\\Views\\Customers\\Index.cshtml",
+              "RelativeToolTip": "CarDealer.Web\\Views\\Customers\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-29T03:28:40.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarDealer.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\P50\\Desktop\\CarDealerSystem\\CarDealerSystem\\CarDealer.Web\\CarDealer.Web.csproj",
+              "RelativeDocumentMoniker": "CarDealer.Web\\CarDealer.Web.csproj",
+              "ToolTip": "C:\\Users\\P50\\Desktop\\CarDealerSystem\\CarDealerSystem\\CarDealer.Web\\CarDealer.Web.csproj",
+              "RelativeToolTip": "CarDealer.Web\\CarDealer.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-29T02:39:41.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\P50\\Desktop\\CarDealerSystem\\CarDealerSystem\\CarDealer.Web\\Views\\Customers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CarDealer.Web\\Views\\Customers\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\P50\\Desktop\\CarDealerSystem\\CarDealerSystem\\CarDealer.Web\\Views\\Customers\\Delete.cshtml",
+              "RelativeToolTip": "CarDealer.Web\\Views\\Customers\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-29T03:19:56.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\P50\\Desktop\\CarDealerSystem\\CarDealerSystem\\CarDealer.Web\\Views\\Customers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CarDealer.Web\\Views\\Customers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\P50\\Desktop\\CarDealerSystem\\CarDealerSystem\\CarDealer.Web\\Views\\Customers\\Edit.cshtml",
+              "RelativeToolTip": "CarDealer.Web\\Views\\Customers\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-29T03:19:21.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\P50\\Desktop\\CarDealerSystem\\CarDealerSystem\\CarDealer.Web\\Views\\Customers\\Create.cshtml",
+              "RelativeDocumentMoniker": "CarDealer.Web\\Views\\Customers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\P50\\Desktop\\CarDealerSystem\\CarDealerSystem\\CarDealer.Web\\Views\\Customers\\Create.cshtml",
+              "RelativeToolTip": "CarDealer.Web\\Views\\Customers\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-29T03:18:45.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\P50\\Desktop\\CarDealerSystem\\CarDealerSystem\\CarDealer.Web\\Views\\Cars\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CarDealer.Web\\Views\\Cars\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\P50\\Desktop\\CarDealerSystem\\CarDealerSystem\\CarDealer.Web\\Views\\Cars\\Delete.cshtml",
+              "RelativeToolTip": "CarDealer.Web\\Views\\Cars\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-29T03:17:29.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\P50\\Desktop\\CarDealerSystem\\CarDealerSystem\\CarDealer.Web\\Views\\Cars\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CarDealer.Web\\Views\\Cars\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\P50\\Desktop\\CarDealerSystem\\CarDealerSystem\\CarDealer.Web\\Views\\Cars\\Edit.cshtml",
+              "RelativeToolTip": "CarDealer.Web\\Views\\Cars\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-29T03:16:31.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\P50\\Desktop\\CarDealerSystem\\CarDealerSystem\\CarDealer.Web\\Views\\Cars\\Index.cshtml",
+              "RelativeDocumentMoniker": "CarDealer.Web\\Views\\Cars\\Index.cshtml",
+              "ToolTip": "C:\\Users\\P50\\Desktop\\CarDealerSystem\\CarDealerSystem\\CarDealer.Web\\Views\\Cars\\Index.cshtml",
+              "RelativeToolTip": "CarDealer.Web\\Views\\Cars\\Index.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwCcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-29T03:15:21.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\P50\\Desktop\\CarDealerSystem\\CarDealerSystem\\CarDealer.Web\\Views\\Cars\\Create.cshtml",
+              "RelativeDocumentMoniker": "CarDealer.Web\\Views\\Cars\\Create.cshtml",
+              "ToolTip": "C:\\Users\\P50\\Desktop\\CarDealerSystem\\CarDealerSystem\\CarDealer.Web\\Views\\Cars\\Create.cshtml",
+              "RelativeToolTip": "CarDealer.Web\\Views\\Cars\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwCUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-29T03:15:57.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "C:\\Users\\P50\\Desktop\\CarDealerSystem\\CarDealerSystem\\CarDealer.Web\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "CarDealer.Web\\Controllers\\SalesController.cs",
+              "ToolTip": "C:\\Users\\P50\\Desktop\\CarDealerSystem\\CarDealerSystem\\CarDealer.Web\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "CarDealer.Web\\Controllers\\SalesController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T03:11:54.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\P50\\Desktop\\CarDealerSystem\\CarDealerSystem\\CarDealer.Web\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "CarDealer.Web\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\P50\\Desktop\\CarDealerSystem\\CarDealerSystem\\CarDealer.Web\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "CarDealer.Web\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAUwFEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T03:11:30.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CarsController.cs",
+              "DocumentMoniker": "C:\\Users\\P50\\Desktop\\CarDealerSystem\\CarDealerSystem\\CarDealer.Web\\Controllers\\CarsController.cs",
+              "RelativeDocumentMoniker": "CarDealer.Web\\Controllers\\CarsController.cs",
+              "ToolTip": "C:\\Users\\P50\\Desktop\\CarDealerSystem\\CarDealerSystem\\CarDealer.Web\\Controllers\\CarsController.cs",
+              "RelativeToolTip": "CarDealer.Web\\Controllers\\CarsController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAUwFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T03:11:05.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\P50\\Desktop\\CarDealerSystem\\CarDealerSystem\\CarDealer.ConsoleApp\\appsettings.json",
+              "RelativeDocumentMoniker": "CarDealer.ConsoleApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\P50\\Desktop\\CarDealerSystem\\CarDealerSystem\\CarDealer.ConsoleApp\\appsettings.json",
+              "RelativeToolTip": "CarDealer.ConsoleApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-29T02:58:28.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CarDealer.ConsoleApp",
+              "DocumentMoniker": "C:\\Users\\P50\\Desktop\\CarDealerSystem\\CarDealerSystem\\CarDealer.ConsoleApp\\CarDealer.ConsoleApp.csproj",
+              "RelativeDocumentMoniker": "CarDealer.ConsoleApp\\CarDealer.ConsoleApp.csproj",
+              "ToolTip": "C:\\Users\\P50\\Desktop\\CarDealerSystem\\CarDealerSystem\\CarDealer.ConsoleApp\\CarDealer.ConsoleApp.csproj",
+              "RelativeToolTip": "CarDealer.ConsoleApp\\CarDealer.ConsoleApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-29T02:57:58.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\P50\\Desktop\\CarDealerSystem\\CarDealerSystem\\CarDealer.ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "CarDealer.ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\P50\\Desktop\\CarDealerSystem\\CarDealerSystem\\CarDealer.ConsoleApp\\Program.cs",
+              "RelativeToolTip": "CarDealer.ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAYBAAAAAAAAAAAUwCsBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T02:59:31.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20260329025427_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\P50\\Desktop\\CarDealerSystem\\CarDealerSystem\\CarDealer.Data\\Migrations\\20260329025427_InitialCreate.cs",
+              "RelativeDocumentMoniker": "CarDealer.Data\\Migrations\\20260329025427_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\P50\\Desktop\\CarDealerSystem\\CarDealerSystem\\CarDealer.Data\\Migrations\\20260329025427_InitialCreate.cs",
+              "RelativeToolTip": "CarDealer.Data\\Migrations\\20260329025427_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T02:54:27.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\P50\\Desktop\\CarDealerSystem\\CarDealerSystem\\CarDealer.Web\\Program.cs",
+              "RelativeDocumentMoniker": "CarDealer.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\P50\\Desktop\\CarDealerSystem\\CarDealerSystem\\CarDealer.Web\\Program.cs",
+              "RelativeToolTip": "CarDealer.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T02:53:41.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\P50\\Desktop\\CarDealerSystem\\CarDealerSystem\\CarDealer.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "CarDealer.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\P50\\Desktop\\CarDealerSystem\\CarDealerSystem\\CarDealer.Web\\appsettings.json",
+              "RelativeToolTip": "CarDealer.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-29T02:53:12.839Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

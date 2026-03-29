@@ -1,0 +1,15 @@
+C:\Users\P50\Desktop\CarDealerSystem\CarDealerSystem\CarDealer.Services\bin\Debug\net8.0\CarDealer.Services.deps.json
+C:\Users\P50\Desktop\CarDealerSystem\CarDealerSystem\CarDealer.Services\bin\Debug\net8.0\CarDealer.Services.dll
+C:\Users\P50\Desktop\CarDealerSystem\CarDealerSystem\CarDealer.Services\bin\Debug\net8.0\CarDealer.Services.pdb
+C:\Users\P50\Desktop\CarDealerSystem\CarDealerSystem\CarDealer.Services\bin\Debug\net8.0\CarDealer.Data.dll
+C:\Users\P50\Desktop\CarDealerSystem\CarDealerSystem\CarDealer.Services\bin\Debug\net8.0\CarDealer.Data.pdb
+C:\Users\P50\Desktop\CarDealerSystem\CarDealerSystem\CarDealer.Services\obj\Debug\net8.0\CarDealer.Services.csproj.AssemblyReference.cache
+C:\Users\P50\Desktop\CarDealerSystem\CarDealerSystem\CarDealer.Services\obj\Debug\net8.0\CarDealer.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P50\Desktop\CarDealerSystem\CarDealerSystem\CarDealer.Services\obj\Debug\net8.0\CarDealer.Services.AssemblyInfoInputs.cache
+C:\Users\P50\Desktop\CarDealerSystem\CarDealerSystem\CarDealer.Services\obj\Debug\net8.0\CarDealer.Services.AssemblyInfo.cs
+C:\Users\P50\Desktop\CarDealerSystem\CarDealerSystem\CarDealer.Services\obj\Debug\net8.0\CarDealer.Services.csproj.CoreCompileInputs.cache
+C:\Users\P50\Desktop\CarDealerSystem\CarDealerSystem\CarDealer.Services\obj\Debug\net8.0\CarDeale.038AEBF2.Up2Date
+C:\Users\P50\Desktop\CarDealerSystem\CarDealerSystem\CarDealer.Services\obj\Debug\net8.0\CarDealer.Services.dll
+C:\Users\P50\Desktop\CarDealerSystem\CarDealerSystem\CarDealer.Services\obj\Debug\net8.0\refint\CarDealer.Services.dll
+C:\Users\P50\Desktop\CarDealerSystem\CarDealerSystem\CarDealer.Services\obj\Debug\net8.0\CarDealer.Services.pdb
+C:\Users\P50\Desktop\CarDealerSystem\CarDealerSystem\CarDealer.Services\obj\Debug\net8.0\ref\CarDealer.Services.dll

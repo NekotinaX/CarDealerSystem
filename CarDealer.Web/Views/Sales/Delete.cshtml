@@ -1,0 +1,13 @@
+﻿@model CarDealer.Data.Models.Sale
+
+<h1>Delete Sale</h1>
+
+<div class="alert alert-warning">
+    Are you sure you want to delete this sale?
+</div>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a asp-action="Index" class="btn btn-secondary">Back</a>
+</form>
